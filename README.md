@@ -8,3 +8,5 @@
 - 👯 I’m looking to collaborate with other React Native developer 👩‍💻 and Mobile App UI designers 🎨
 - 🥅 2024 Goals: Developing an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to Design and Coding 🏊‍♀️
+
+<img src="https://www.codewars.com/users/krcstudio59/badges/large" />
