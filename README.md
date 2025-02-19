@@ -5,8 +5,8 @@
 ## I'm a Computer Engineer 👨‍🎓, Frontend Developer 🚀, Youtube Creator ✍ and Influencer 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other React Native developer 👩‍💻 and Mobile App UI designers 🎨
-- 🥅 2024 Goals: Developing an app to be heard in the world 🌎
+- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and Mobile App UI designers 🎨
+- 🥅 2025 Goals: Developing an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to Design and Coding 🏊‍♀️
 
 <img src="https://www.codewars.com/users/krcstudio59/badges/large" />
